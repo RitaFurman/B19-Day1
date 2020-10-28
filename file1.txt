@@ -1,1 +1,7 @@
 This is day1
+
+We created a git repository on descktop called B20-Day1
+
+We added one file inside file1.txt
+
+Also ding some changes. file number 3
